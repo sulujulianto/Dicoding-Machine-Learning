@@ -1,0 +1,10 @@
+# Ignore model & training artifacts
+*.keras
+*.h5
+*.pb
+*.bin
+*.tflite
+*.data*
+*.index
+__pycache__/
+.ipynb_checkpoints/
